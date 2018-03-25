@@ -1,5 +1,5 @@
 {
-  {
+  "products" : [{
     "Product_id" : "AAA123",
 	"Company" : "Fossil",
 	"ModelNumber": "FTW2111",
@@ -148,5 +148,5 @@
       "Discount": "20%",
       "SpecialPrice": 37995
     }
-  }
+  }]
 }
