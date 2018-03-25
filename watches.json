@@ -1,4 +1,4 @@
-var watches =[
+{
   {
     "Product_id" : "AAA123",
 	"Company" : "Fossil",
@@ -149,4 +149,4 @@ var watches =[
       "SpecialPrice": 37995
     }
   }
-]
+}
