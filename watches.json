@@ -1,0 +1,152 @@
+var watches =[
+  {
+    "Product_id" : "AAA123",
+	"Company" : "Fossil",
+	"ModelNumber": "FTW2111",
+    "ModelName": "Q Wander",
+    "Size": "Regular",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "195 +/- 5mm",
+      "StrapWidth": "22 mm",
+      "CaseDimension": "13.5 mm",
+      "CaseShape": "Round"
+    },
+    "Warranty": "2 Years Warranty",
+    "Price": {
+      "OriginalPrice": 19995,
+      "Discount": "50%",
+      "SpecialPrice": 9995
+    }
+  },
+  {
+    "Product_id" : "AAA234",
+	"Company" : "Fossil",
+	"ModelNumber": "ABC673",
+    "ModelName": "Charlie",
+    "Size": "Regular",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "190 +/- 5mm",
+      "StrapWidth": "25 mm",
+      "CaseDimension": "13.5 mm",
+      "CaseShape": "Square"
+    },
+    "Warranty": "3 Years Warranty",
+    "Price": {
+      "OriginalPrice": 8995,
+      "Discount": "50%",
+      "SpecialPrice": 4495
+    }
+  },
+  {
+	"Product_id" : "AAA345",
+    "Company" : "Titan",
+	"ModelNumber": "NN0897",
+    "ModelName": "Beauty",
+    "Size": "Regular",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "180 +/- 5mm",
+      "StrapWidth": "18 mm",
+      "CaseDimension": "10.5 mm",
+      "CaseShape": "Round"
+    },
+    "Warranty": "2 Years Warranty",
+    "Price": {
+      "OriginalPrice": 4995,
+      "Discount": "30%",
+      "SpecialPrice": 3495
+    }
+  },
+  {
+	"Product_id" : "AAA456",
+    "Company" : "RADO",
+	"ModelNumber": "MT2311",
+    "ModelName": "Champion",
+    "Size": "Formal",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "198 +/- 5mm",
+      "StrapWidth": "24 mm",
+      "CaseDimension": "18.5 mm",
+      "CaseShape": "Round"
+    },
+    "Warranty": "2 Years Warranty",
+    "Price": {
+      "Original Price": 19995,
+      "Discount": "50%",
+      "Special Price": 9995
+    }
+  },
+  {
+    "Product_id" : "AAA567",
+	"Company" : "Titan",
+    "ModelNumber": "WIN0908",
+    "ModelName": "Winner",
+    "Size": "Sporty",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "190 +/- 5mm",
+      "StrapWidth": "25 mm",
+      "CaseDimension": "12.5 mm",
+      "CaseShape": "Square"
+    },
+    "Warranty": "2 Years Warranty",
+    "Price": {
+      "OriginalPrice": 7995,
+      "Discount": "50%",
+      "SpecialPrice": 4000
+    }
+  },
+  {
+    "Product_id" : "AAA678",
+	"Company" : "RADO",
+	"ModelNumber": "R30940",
+    "ModelName": "Quirk",
+    "Size": "Formal",
+    "WaterResistent": "Yes",
+    "Usage": [
+      "Notifier",
+      "Fitness",
+      "Outdoor"
+    ],
+    "OtherDimensions": {
+      "StrapCircumference": "198 +/- 6mm",
+      "StrapWidth": "24 mm",
+      "CaseDimension": "15.5 mm",
+      "CaseShape": "Round"
+    },
+    "Warranty": "1 Years Warranty",
+    "Price": {
+      "OriginalPrice": 59995,
+      "Discount": "20%",
+      "SpecialPrice": 37995
+    }
+  }
+]
